@@ -7,10 +7,13 @@ import time
 
 def StartBrowser():
     opts = Options()
-    opts.headless = True
-    assert opts.headless  # Operating in headless mode
+    #opts.headless = True
+    #assert opts.headless  # Operating in headless mode
     browser = Firefox(options=opts)
     browser.get('https://account.parkmobile.com/login')
+    time.sleep(3)
+    cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
+    cookie.click()
     return browser
 
 
@@ -48,9 +51,18 @@ def StopParking():
     active_parking = browser.find_element_by_id('clr-dg-row1')
     active_parking.click()
     time.sleep(2)
-    stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger.btn-block')
+    #stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger.btn-block')
+    stop_parking = browser.find_element_by_css_selector('pn-stop-parking-session.ng-star-inserted')
     stop_parking.click()
-    stop_parking.send_keys(Keys.TAB)
+    time.sleep(.5)
+    stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
+    stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c124-12')
+    stop_div.click()
+    #stop_parking.click()
+    # stop_div.send_keys(Keys.TAB)
+    # stop_div.send_keys(Keys.TAB)
+    # stop_div.send_keys(Keys.TAB)
+    # stop_div.send_keys(Keys.ENTER)
     # time.sleep(2)
     # stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger')
     # stop_parking.click()
@@ -58,10 +70,11 @@ def StopParking():
 global browser
 browser = StartBrowser()
 Login()
-time.sleep(5)
-StartParking()
-print('Parking Started')
-time.sleep(10)
+time.sleep(1)
+# time.sleep(5)
+# StartParking()
+# print('Parking Started')
+# time.sleep(10)
 StopParking()
 # browser.close()
 # browser.quit()

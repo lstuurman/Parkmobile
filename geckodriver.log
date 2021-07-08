@@ -482,3 +482,193 @@ Running Firefox as root in a regular user's session is not supported.  ($XAUTHOR
 *** You are running in headless mode.
 1622300272564	Marionette	INFO	Listening on port 33573
 1622300272599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622324239829	Marionette	INFO	Stopped listening on port 37237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622324239869	Marionette	INFO	Stopped listening on port 41631
+1622324239881	Marionette	INFO	Stopped listening on port 35741
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622324239943	Marionette	INFO	Stopped listening on port 34327
+1622324239956	Marionette	INFO	Stopped listening on port 42467
+1622324239983	Marionette	INFO	Stopped listening on port 43719
+1622324239984	Marionette	INFO	Stopped listening on port 39543
+1622324239987	Marionette	INFO	Stopped listening on port 36731
+1622324240040	Marionette	INFO	Stopped listening on port 35363
+1622324240131	Marionette	INFO	Stopped listening on port 34117
+1624636506132	geckodriver	INFO	Listening on 127.0.0.1:38877
+1624636507133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWSJsnb"
+*** You are running in headless mode.
+1624636510207	Marionette	INFO	Listening on port 43613
+1624636510246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624636534076	geckodriver	INFO	Listening on 127.0.0.1:52015
+1624636534081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekOjoJN"
+*** You are running in headless mode.
+1624636536190	Marionette	INFO	Listening on port 43457
+1624636536288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624636877793	geckodriver	INFO	Listening on 127.0.0.1:57327
+1624636877799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePBHwns"
+*** You are running in headless mode.
+1624636880000	Marionette	INFO	Listening on port 45995
+1624636880008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624636896820	geckodriver	INFO	Listening on 127.0.0.1:33447
+1624636896826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen3eOvJ"
+*** You are running in headless mode.
+1624636899311	Marionette	INFO	Listening on port 37259
+1624636899341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624636968172	Marionette	INFO	Stopped listening on port 37259
+1624636982266	geckodriver	INFO	Listening on 127.0.0.1:39907
+1624636982272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehLbQCt"
+*** You are running in headless mode.
+1624636984543	Marionette	INFO	Listening on port 46125
+1624636984579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637033029	Marionette	INFO	Stopped listening on port 46125
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624637064926	geckodriver	INFO	Listening on 127.0.0.1:58607
+1624637064931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCMrnXa"
+1624637067406	Marionette	INFO	Listening on port 43585
+1624637067441	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1624637320903	Marionette	INFO	Stopped listening on port 43585
+1624637351405	geckodriver	INFO	Listening on 127.0.0.1:39995
+1624637351411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuyqTUH"
+1624637354469	Marionette	INFO	Listening on port 33341
+1624637354522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637401553	Marionette	INFO	Stopped listening on port 33341
+1624637406489	geckodriver	INFO	Listening on 127.0.0.1:39355
+1624637406495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledaZiRg"
+1624637409457	Marionette	INFO	Listening on port 33501
+1624637409509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637453264	Marionette	INFO	Stopped listening on port 33501
+1624637460707	geckodriver	INFO	Listening on 127.0.0.1:56589
+1624637460712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOyOD0K"
+1624637463657	Marionette	INFO	Listening on port 38223
+1624637463742	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1624637721610	geckodriver	INFO	Listening on 127.0.0.1:37267
+1624637721615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeS6l2l"
+1624637724103	Marionette	INFO	Listening on port 43923
+1624637724138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637764988	Marionette	INFO	Stopped listening on port 43923
+1624637766021	geckodriver	INFO	Listening on 127.0.0.1:53095
+1624637766026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1wY1r2"
+1624637768473	Marionette	INFO	Listening on port 42275
+1624637768535	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624637809068	Marionette	INFO	Stopped listening on port 42275
+1624637811464	geckodriver	INFO	Listening on 127.0.0.1:57743
+1624637811470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilentoLjU"
+1624637813860	Marionette	INFO	Listening on port 37169
+1624637813891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637850277	geckodriver	INFO	Listening on 127.0.0.1:34479
+1624637850283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMr9dMg"
+1624637851636	Marionette	INFO	Stopped listening on port 37169
+1624637852746	Marionette	INFO	Listening on port 41123
+1624637852791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624637861392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1624637964354	Marionette	INFO	Stopped listening on port 41123
+1624637967335	geckodriver	INFO	Listening on 127.0.0.1:56009
+1624637967341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2a7b5v"
+1624637969771	Marionette	INFO	Listening on port 39833
+1624637969848	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1624638071990	Marionette	INFO	Stopped listening on port 39833
+1624638077379	geckodriver	INFO	Listening on 127.0.0.1:50785
+1624638077385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOreOJ1"
+1624638079878	Marionette	INFO	Listening on port 38383
+1624638079891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624638096972	Marionette	INFO	Stopped listening on port 38383
+1624638099565	geckodriver	INFO	Listening on 127.0.0.1:46233
+1624638099571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYSwleD"
+1624638102046	Marionette	INFO	Listening on port 33945
+1624638102087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624722746199	Marionette	INFO	Stopped listening on port 33945
+1624780468047	Marionette	INFO	Stopped listening on port 43613
+1624780468455	Marionette	INFO	Stopped listening on port 45995
+1624780468526	Marionette	INFO	Stopped listening on port 43457
