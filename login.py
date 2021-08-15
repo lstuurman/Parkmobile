@@ -40,12 +40,14 @@ def StartParking():
     child=start_parking_form.find_element(By.XPATH,'.//*')
     children=child.find_element(By.XPATH,'.//*')
     children.send_keys('15812')
-    time.sleep(2)
+    time.sleep(4)
     children.send_keys(Keys.DOWN)
+    time.sleep(4)
+    #children.send_keys(Keys.DOWN)
+    #time.sleep(4)
+    children.send_keys(Keys.RETURN)
     time.sleep(2)
     children.send_keys(Keys.RETURN)
-    # time.sleep(2)
-    # children.send_keys(Keys.RETURN)
 
 def StopParking():
     active_parking = browser.find_element_by_id('clr-dg-row1')
@@ -67,17 +69,34 @@ def StopParking():
     # stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger')
     # stop_parking.click()
 
+
 global browser
-browser = StartBrowser()
-Login()
-time.sleep(1)
-# time.sleep(5)
-# StartParking()
-# print('Parking Started')
+
+for our in [9,12,15,19]:
+	browser = StartBrowser()
+	Login()
+	time.sleep(5)
+	# time.sleep(5)
+	StartParking()
+	print('Parking Started')
+	time.sleep(10)
+	browser.close()
+	browser.quit()
+	
+	time.sleep(10392)#397)#500
+	browser=StartBrowser()
+	Login()
+	time.sleep(3)
+	StopParking()
+	print('Stopped Parking')
+	browser.close()
+	browser.quit()
+	time.sleep(297)#97)#00
 # time.sleep(10)
-StopParking()
-# browser.close()
-# browser.quit()
+#StopParking() 
+#print('Parking Stopped')
+browser.close()
+browser.quit()
 
 
   
