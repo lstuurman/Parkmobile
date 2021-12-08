@@ -7,7 +7,7 @@ import time
 
 def StartBrowser():
     opts = Options()
-    #opts.set_headless(headless=True)
+    opts.set_headless(headless=True)
     #opts.set_headless(headless=True)
     #assert opts.headless  # Operating in headless mode
     browser = Firefox(options=opts)
