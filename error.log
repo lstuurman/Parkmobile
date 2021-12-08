@@ -1,0 +1,2357 @@
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 80, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 12, in StartBrowser
+    browser = Firefox(options=opts)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/firefox/webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Process unexpectedly closed with status 1
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632376772.61156 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a5081d7c-5d20-4fae-a2c5-276f6d2b58a5", element="b1a6138c-a5c0-4829-a3f4-0a3753134052")>
+1632380431.8386045 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632391227.9653137 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9d1419d1-95a9-4c63-915a-d550dceaa2c6", element="3351808b-db96-44aa-8478-a7b465a77e56")>
+1632391291.2894595 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632402027.8674405 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d988ce5d-b23a-45fc-bd9c-da37edb78e53", element="115dd3e2-6ac2-4aaf-8ff4-57232053b1dc")>
+1632402091.479342 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632412827.715886 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="477e027f-5f45-4a24-b965-40fd30645399", element="8ba14838-10b6-4857-9301-a50f6b135266")>
+1632412889.9731896 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632416427.1727386 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0fdbb2cd-e1c7-4970-a3b3-f352dfdaac41", element="15febc07-2996-41ea-abc3-e9f40da629c8")>
+1632416490.0660274 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632463167.433745 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f8b6113-e2b7-4408-9ab1-398fa93d4096", element="e23d0bba-4c37-4eb5-b19d-c84ae6518442")>
+1632466829.69525 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632477627.405665 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c9750ad2-961d-4c36-b390-3942e5e27f32", element="4d137a3d-49fc-4262-87f2-1f3dc0e3be64")>
+1632477689.964577 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632488425.8697717 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="70989f86-ff0d-46de-a7ce-a774e5be9150", element="9f438153-c366-4804-8a44-e325534081fd")>
+1632488489.9213316 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632499228.7146287 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9e4d5d11-1c40-4282-8838-790b5fb9c963", element="a2a62fc6-f504-467e-ab94-cd2d05a8d7a8")>
+1632499288.9890196 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632502825.9254198 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b20a68c5-7076-4bc4-904b-15415b59fefb", element="97156ec9-1164-47f2-b8da-a1b3f73eea3c")>
+1632502890.900883 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 64, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bc76c3f5-9e22-49af-b7d6-6914bcbc2a7a", element="ca25f445-3d24-46d8-b04c-b04a8ad23dda")>
+1632726029.4329908 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 64, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="754eec97-c00f-4cd9-9671-77e71bcadf61", element="422b7691-f327-4f14-b6e7-16cc7afeed0e")>
+1632736892.7125788 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632747627.350505 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f009a67d-c56a-407c-b92e-227708bc827a", element="baa5ccde-364d-480c-a87b-9b99c548b057")>
+1632747690.0280674 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632758428.0406096 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="15c137b9-e194-4e92-9616-fa8c92535ac5", element="c9d25da8-4b87-4f6c-a320-402e9c57e970")>
+1632758489.3144295 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632762027.240145 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3e73d2ea-0c47-4ef9-b18a-37fba3eb4b34", element="7784ae6e-63d9-4e41-af75-64c4c1d464b3")>
+1632762089.3025186 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632808770.445277 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="549cdd8c-4e38-4c92-9937-6ab969ec0be1", element="d4cfe4e2-b077-44e7-b47c-aa38c06426f5")>
+1632812428.9494967 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 64, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="76c060da-35c5-4d8c-b6ee-3ed9a71405bd", element="b419de39-8131-4e72-a013-d9f1a9b4f75d")>
+1632823289.0487185 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632834025.8714788 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0179092b-1220-449b-a32d-3fd18041f02d", element="45113205-f9b8-4966-ae3e-1b1046601132")>
+1632834087.9609652 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632844825.3892426 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a8ee4f10-82d2-4452-8ac8-89fd1599981c", element="daa8f13f-2655-4c0f-aa7d-a2aaf3f06c63")>
+1632844889.253323 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632848426.435805 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3cd96511-2080-4737-b732-d8b9a871ce2a", element="354607a9-0665-4276-93cc-39825ccc3821")>
+1632848491.9075172 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632895169.9209356 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="97bc3804-9d94-4e1e-838d-648b36764549", element="f5c490b8-e243-493c-83ed-a3ffc1ab0801")>
+1632898831.1972415 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632909626.0382695 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e8121e48-1812-4669-b1bd-526c02ce8827", element="93584316-a5ef-40f9-8097-0dd3ae5cb0b7")>
+1632909690.6112206 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632920425.6571279 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="39482818-b77c-46f0-b590-dd28aafb8212", element="f50d6ef5-525f-4a34-af0a-5b2ed895cced")>
+1632920489.8723466 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1632931226.6439009 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2e0e7efe-4448-40cf-976b-c2c67fa67999", element="01ad1dcc-63d6-4262-a157-01bf81acb9aa")>
+1632931288.999559 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 71, in StopParking
+    stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 598, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: div.modal-content-wrapper.ng-tns-c124-12
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="496838a6-190f-4d73-8481-982e672c20e1", element="612b4555-7120-4bf0-a26f-8f61118459fe")>
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 13, in <module>
+    StartParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 54, in StartParking
+    start_parking = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block.ng-tns-c36-8')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 598, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: button.btn.btn-primary.btn-block.ng-tns-c36-8
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 71, in StopParking
+    stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 598, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: div.modal-content-wrapper.ng-tns-c124-12
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="82e03214-7c47-4756-aabd-f50c9d89872d", element="447ae19b-ed55-480e-8bda-ee9483f92e68")>
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 13, in <module>
+    StartParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 54, in StartParking
+    start_parking = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block.ng-tns-c36-8')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 598, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: button.btn.btn-primary.btn-block.ng-tns-c36-8
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634216432.4832623 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="22ffa599-98f5-4dbd-b829-534f2c944332", element="46458fca-af54-4733-b6c4-e3919d599ad6")>
+1634216491.3833978 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634227228.667295 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e4024a4b-a75d-4fe1-8f1d-d3e4f40dcbd4", element="55c93dcc-49f8-4b8e-a539-cf08b25b31e9")>
+1634227291.826133 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634230828.998372 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ea6bc661-74af-4d7f-9cdb-5e200058b7a0", element="c348502e-5944-4ac5-a739-7f46315bcb49")>
+1634230891.8987813 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634277574.0742052 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d8a2b4b8-151f-484d-ac6f-5ecda55279d5", element="f925a6b5-eac8-453b-865a-562be1a41911")>
+1634281236.5569646 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1634292032.0902767 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="72055de8-1c4b-485d-ac15-34ac1fb0fffd", element="76704f91-c19f-4ec3-852d-395cc71c862e")>
+1634292091.8769896 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634302844.0368404 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="16a5f4cc-b879-4852-8fd6-5e5b2b7ae8ff", element="6804695c-48da-4f43-87e0-446ec541f669")>
+1634302894.5181038 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1634313631.9943938 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="693efcd2-6fc8-4127-a687-323ca5389252", element="b8ffe957-91cd-4c14-ab12-80ea69385e04")>
+1634313691.2578208 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634317228.8891602 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="27d9bc1e-849e-48d2-bbea-1d669c8d4f0d", element="136db7c9-4fa3-4960-9d65-cf23a83dae24")>
+1634317292.9652486 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="045ae7b6-a9c6-4c58-9004-f11d78662183", element="d9cd5a5d-a01a-4a1d-bec4-96421d06d392")>
+1634540435.3725893 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634551230.1414976 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="de484e77-e63d-4c82-a880-a0712f0d5126", element="604e8115-0df9-4d2a-aa67-2ba2e14925bc")>
+1634551291.4108775 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634562032.0739233 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4830ed8d-aa1e-4f89-9a31-acbfc9507269", element="c9eac269-3a19-4ca8-8114-91d64b00384a")>
+1634562092.0546842 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634572829.6760128 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="09f76a0b-b9bb-478d-aaf8-7386b9f21f90", element="a4fd5da1-39c5-43d6-9538-cc09fab46997")>
+1634572895.9550319 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634576427.562847 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3db15c7b-ab7f-4e65-bcee-3fc66394a3d8", element="c3f21a4c-1f51-4a81-a67f-80e53b1a126e")>
+1634576491.3274798 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634623195.0681317 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="088d869f-204d-450c-927b-9020d893dbb1", element="f68e681a-3331-4ff3-9ae4-720ec099597f")>
+1634626838.3034716 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634637636.4477417 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5d28636b-9efd-4955-b408-5c2696eece23", element="723524d7-b26f-455e-9574-bc381ef6a5f2")>
+1634637695.262919 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2314dc3-6142-4c2f-ba68-6c47702619eb", element="a5470be1-4d4a-43ec-a494-b19fec6946d0")>
+1634648498.4928744 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634659250.9228501 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8166ddcd-045f-4ced-857b-f3d705c6ce00", element="db7263de-bab4-475b-bcf3-20c987a05034")>
+1634659297.7203364 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634662827.5352771 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="33b0fefd-728b-461d-91d9-6ad5818d1cac", element="ff6d2ee7-a74d-4231-9e88-392c84f273d7")>
+1634662891.1534212 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634709587.6489236 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="45085722-808d-46bb-9c18-4f31bab9d90f", element="e4723144-583e-44d5-acf4-5c9865319bf8")>
+1634713236.5702577 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634724034.2608292 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c9fcf50c-6ba5-4f0f-acd0-43efecb87f16", element="5b5f4f73-185d-46fa-ac9d-c1d94636978b")>
+1634724095.0174794 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634734849.6954126 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d727e66e-2e5d-4145-b4c4-af403012b10b", element="68c50fdf-c1b8-480c-bb27-67c49cc20b2c")>
+1634734894.2999947 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634745643.745822 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="28b553d4-dea3-43ea-b525-2ac382d47d66", element="6765bd9a-8f72-45b4-8822-562544fdd01d")>
+1634745692.3111277 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634749229.6638632 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ea2983a8-34f8-46f7-875e-a511ac90b290", element="87660c43-7607-4d35-bc6c-b324afe03890")>
+1634749292.4219627 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634795992.7558572 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a30cd1b-9496-44de-8906-adf57b78ff92", element="b692c36e-8400-4ea6-9c75-7d6fb72b6a46")>
+1634799641.0333054 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634810429.3740478 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0dd89b2c-5577-42da-9ecb-2f72bb7eebb3", element="a4cb2267-d64c-4ce8-a09c-bd3ba38d8577")>
+1634810496.0862257 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634821231.1161451 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="080c9f55-f55d-44e5-949a-7561f2e4dd48", element="b76a9b11-a59f-4b14-8149-0f0d25dbfa43")>
+1634821290.2748568 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634832033.0738442 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="65f486a2-e4bc-46d5-bf94-877337afbb0b", element="da3c91fe-7be7-43ab-a870-694cabb0c233")>
+1634832094.860845 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634835630.1510713 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cd8365ad-510b-4d33-960f-e26c5a84f935", element="74f2be1d-5434-466d-a7d7-9243e1071478")>
+1634835691.3096576 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634882370.096659 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0db68f70-f8f4-4fc9-9dce-b85263d212f0", element="1347b83a-8348-41c7-9b9b-c6742e961835")>
+1634886035.3226442 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634896830.4181237 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f3bb3ee8-6aaf-4009-8e5f-ee2fd12b53dc", element="01711a39-7cc2-47d8-8d8b-6151fd84870d")>
+1634896892.1998315 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634907629.9832509 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4950b867-a750-4508-904c-407b8ca00de7", element="01720b7f-9288-495b-8cef-3a07a8a08f3f")>
+1634907691.5759778 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634918430.0517752 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0e108fd2-20b8-412e-b9d2-6f7859142ae3", element="bb556a1f-e561-40c0-9a44-be334df23a34")>
+1634918491.448881 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1634922028.7108674 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e2c9fd9f-b1fb-4174-b0b4-67e6b651acce", element="506aba5f-7d3f-4070-932b-586f790e5785")>
+1634922092.3446062 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f0ed6b57-8a53-4826-aa80-47e5ab29342a", element="3958719e-81e3-4613-aea2-32cf5f5d1d12")>
+1635145242.8033493 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635156033.5978274 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="413fce79-b347-452c-a0e1-109280b19ca6", element="98f007b7-8b33-4aa0-8bcc-759b196bb5ae")>
+1635156092.738651 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635166829.4018357 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="70a0cde4-3196-4bc2-b8c3-60a5be7cc99d", element="ce7a9873-31aa-4d83-996c-4ed59f9614a9")>
+1635166894.1734064 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635177631.436623 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2a0b4dd-f6c9-407f-963c-8bc0501d5657", element="051b7173-ce88-4241-95da-b046d634168a")>
+1635177692.0494325 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635181227.7421653 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="16f46398-c9d4-4dfa-bf0e-91c3f2e93c4c", element="cdb9b56c-3329-42e1-b582-d5f382ae5dfb")>
+1635181292.3530493 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635227989.393917 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8bc9784c-6ed4-46e7-ba0b-ade26fcbd64d", element="cd269b00-40cf-4c3c-a0b3-0dea012789c9")>
+1635231634.5049167 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635242435.5672503 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8a4aeae1-134a-4714-90ee-1a4d1490fa18", element="9c3b4290-ab2f-4199-bb6c-8911f2900ef6")>
+1635242493.664382 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635253238.4390137 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4041fca4-7908-49c9-a839-45d2148c1439", element="e59c3994-1569-4b67-ad89-f0267373cf12")>
+1635253294.9431295 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635264056.4640634 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2cadd50a-679e-4943-9b8a-2378fd5589cf", element="ea6752de-f0dc-4e47-a8fd-0f6bb65deea2")>
+1635264096.1971362 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635267628.8346248 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="88adc32c-dafd-4741-a712-a73ccc4621da", element="5228847b-44b8-43ed-b84f-5b53d5a08ea3")>
+1635267690.4311018 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635314396.049089 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fb01f9fa-4970-46f2-b9d4-92636f1dc7df", element="bc06c118-7e3d-4ba2-a727-8ef543f29a1e")>
+1635318033.9540877 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635328829.06772 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2c2d105f-7f89-4790-adb6-c1f0339d18db", element="162a6d7f-6904-41ea-a9ff-3ebcd9748e35")>
+1635328891.2732415 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635339631.8674743 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="11463d6b-e49b-4c6a-89a4-29a1f356be08", element="4f507d49-536b-4175-af26-f0d40ce3d8c4")>
+1635339691.9315488 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635350429.9099278 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4670b7fc-0b87-41a0-acae-e93e324c3487", element="c941e7b5-7e13-4c99-8cf3-0c7645fa2735")>
+1635350490.4177608 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635354025.9877927 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="44f5d91f-38a5-47a9-85ea-bf790df9c0d0", element="81b660b1-d1e5-4046-95d0-40dc7c6aff4d")>
+1635354089.8748853 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635400784.5231547 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f6a69aba-04e7-47f6-88ad-451f58d7a68a", element="bb2abce3-88a1-4e2b-86f5-c14ae8f72ff7")>
+1635404431.6413796 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635415231.9919384 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4540c6c6-c2d0-4927-b4d7-2fcfeb77318e", element="06cdd919-cf11-434d-a2f7-b333097de87b")>
+1635415291.015553 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635426035.3316052 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="45d77a48-7dc6-4d32-a2e2-fc395860f87d", element="16279159-ef70-4d5c-89d4-92e99125ec8b")>
+1635426094.72251 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635436828.7604601 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="db437d2e-c26b-4a97-897a-988dbb754a45", element="7ab28441-bcda-456a-8352-f9d1cb6128ad")>
+1635436893.8331473 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635440429.2223341 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="7f25efbc-c7ea-4c0b-bc2b-2add15740740", element="8b88e599-d6d6-446c-9a29-b66f3e1a7392")>
+1635440491.6264002 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635487183.5591452 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="41ebce31-89c4-43d7-a069-1b6543e208d4", element="1c28269b-3b24-4eb3-8d5d-b2ec33bdcf93")>
+1635490831.9719877 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635501631.2141404 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="401dcd10-574f-462b-afa6-8d5a4dd1920b", element="9031912d-3796-41c2-9ac4-d8d5fccc9012")>
+1635501691.684273 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/startParking.py", line 8, in <module>
+    from login import *
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 84, in <module>
+    browser = StartBrowser()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 16, in StartBrowser
+    cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 598, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: button.optanon-allow-all.accept-cookies-button
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="88fcbc18-5543-48b0-8579-d32300806388", element="355ead21-d4b2-43b5-9929-fe2f33c038e8")>
+1635523340.8853734 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635526849.4580288 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2dea2048-62ae-4753-b4e5-f59589ec5741", element="e59cbf19-5c35-4af6-8736-ba210b4fad90")>
+1635526909.085742 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9463c77d-da2a-4fa7-94b1-10f896832c92", element="e17eb4ce-8429-4ed0-9f24-676ad515e8b7")>
+1635753667.2691858 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635764453.8566983 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0f4cc4bc-e286-43f4-98bc-c0bf5711e261", element="4b4dc70f-0b01-4b9c-8f76-e4ef0f3520a8")>
+1635764498.4391773 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635775247.5595233 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9ab46320-4cf7-4f23-aa2b-dd0d6c2cb8fd", element="fb78fa47-2540-4997-a12c-4f8e524c2b0d")>
+1635775298.5980816 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635786031.7529118 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="15f14cd5-0e50-477a-914f-f6120115b731", element="e9102fb1-7708-48fb-816b-2f3fb6c3ae6a")>
+1635786091.7640467 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635789631.0892289 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e51533f6-82d9-4ee7-adfe-3941daa5ad48", element="774641dd-502f-4ce1-a0f9-672105118b5d")>
+1635789695.3562784 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635836389.6958196 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ddd05b3b-31b8-4460-8241-91b7a0d65872", element="3082ef61-3080-4069-bc5e-eb2076c72a12")>
+1635840036.1118984 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635850830.6778126 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8ebb51f2-3001-4822-bff5-051cfa45f9a5", element="5306ef88-2137-4d5c-88a8-623168ee9d3d")>
+1635850890.5678468 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635861629.629923 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e8b21def-d8d9-4d51-8ea5-a6c15f924c3a", element="0cb1fd62-624f-42d2-87f5-73abd6963fb7")>
+1635861691.658497 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635872431.117662 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f454edd-0185-4cc8-860e-488b307e4104", element="9e18bdda-c4c5-4773-a682-bfa6808de8db")>
+1635872493.508333 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635876029.4014447 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b6a2ce84-5efd-45a1-a7e1-a764378e55f9", element="fa75444e-a41c-4d41-9545-2e6f1e010967")>
+1635876091.9254882 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635922785.9935045 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6a06e78d-2516-4fe5-8f1f-7204e6cfdcff", element="8bb00c84-ff32-4e46-88cd-f340db0c1f69")>
+1635926436.738971 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635937248.2048311 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d5e7e32f-c135-4c80-9f4b-7eeb4fda9300", element="30afc4ed-9bed-4a0a-b766-5c5313a28891")>
+1635937299.2433026 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635948048.8356335 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d728ee33-9575-41c8-ac75-ad83af246751", element="be41afce-b3eb-4bd3-bd12-2e7b2dfe1f4e")>
+1635948092.1021209 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1635958843.2241035 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e69b5505-6eb2-47fb-bd53-9baf27b38787", element="3e3594d5-a1d4-4eb0-9b7c-3e767691c94c")>
+1635958895.6116965 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1635962444.7395308 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bf1f0114-b2b0-4f99-b53c-c0d63076c247", element="e8e7c3ce-1a8e-4a30-833d-e9e821e6db0b")>
+1635962498.3106322 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636009200.7083595 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2b70496d-4ab9-4394-8bce-451fa61dae49", element="a53eed4c-6666-4626-8a74-08bdac4096c3")>
+1636012843.0352614 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636023663.0538433 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="159d1443-cbc2-4c86-9d7e-20ce488c055e", element="9c850f9e-2a3e-468e-b781-c4d758d03623")>
+1636023732.9276216 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636034454.7547748 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="7cd662a2-ed1b-4afa-8473-d099c3756f11", element="37e7341a-0416-442c-b4b5-0ed6519130f3")>
+1636034492.6222882 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636045228.3220224 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4f193273-ab61-4f0c-ab04-23c1dd7b9d6c", element="59451108-80d4-4db5-8425-39c4c338a1f1")>
+1636045289.4621642 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636048828.367723 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a701ee5b-1597-4ed9-8fb1-1682e072dc00", element="b818e3b0-90e1-4c2a-b8cf-735ceb3576d8")>
+1636048889.3924296 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636095606.0923896 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="46ea954d-d244-4a47-a1ba-51005601cffc", element="79f9541b-596a-4252-93f4-4275dc72480a")>
+1636099258.2140648 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636110069.978892 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="936fe1da-d0bc-462a-8541-838e4610aaad", element="c1ad6d69-f832-4468-94a9-38317da1182b")>
+1636110100.4011428 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636120885.6791484 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b45d3c0f-32d0-42fe-82ad-e4155f016715", element="d95afcd7-581c-4abf-8745-838acebbc2b5")>
+1636120933.566067 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636131662.8655984 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="53023f0d-270f-4fb6-bdae-25f3ca851cb7", element="c94c5a52-1d73-4469-840e-74bb645ae4cb")>
+1636131703.548357 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636135238.0336466 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="824a4469-e718-475c-9111-2e053f3d3f5a", element="585f02cc-2e6e-4462-81f3-902e446d2fd8")>
+1636135292.5627785 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="132c0c35-5870-48fa-b7b9-bb0eb331a847", element="acd62ef8-2cfe-4634-83bd-f47d61874043")>
+1636358475.050453 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636369280.718773 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8ca85b25-a02c-4634-9103-d318eb7d52f1", element="ac573348-cbe7-46dd-94c2-63f2ce7eac42")>
+1636369311.4148102 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636380071.8141692 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="47257995-feae-4643-969e-2a2ed59f480d", element="85d9ff90-6e7a-4b24-8133-4b27cdffefe0")>
+1636380122.2358143 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636390873.8972127 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9f59d6fc-01f0-489a-a5a1-09de9a83926d", element="89863e8c-31a8-4a3b-b807-eb24ff281ba9")>
+1636390904.8940835 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636394449.5736852 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="17acc100-e3a3-43d0-b08d-f99c9a8ac843", element="9c5b99a3-0a2f-489b-a7d9-88ee4faf8cf6")>
+1636394495.418175 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636441234.9900334 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f8329a97-3a26-4f32-8f90-91424e3713f5", element="046e9ce3-64c8-49c4-b7b8-34fc172eb5fb")>
+1636444867.894642 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636455671.4344373 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="886a73f5-2fb4-4698-95c7-556be98c5c96", element="b3a8b411-1b18-4e43-b7dd-7feb20875825")>
+1636455707.4830577 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636466477.0085874 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="feb18f8d-e988-44ff-aebc-c117b29c3db4", element="359aaae4-e016-4648-9dcb-dd6cd66eaa18")>
+1636466522.7267914 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636477302.1433322 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8c9a4552-afde-4244-8c07-dce6bb945d77", element="56d1f8f2-de83-4ba5-b888-b70e3fa611a2")>
+1636477324.6757193 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636480838.1083734 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f5746c0f-b563-44f5-ba01-f3ebfbe362b7", element="008ce443-ddb6-4b54-89ab-e45cf30bcbc7")>
+1636480895.0351696 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636527598.7592661 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="7d25dce1-463b-4f99-b52c-e14555ea1175", element="eec98a8b-4658-4b09-ba5e-5d2bd19b193f")>
+1636531250.34248 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636542043.3487716 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="7ac00314-33f6-4c1c-bb55-b2f0912b91d5", element="e334b6b4-3cee-443b-b3df-023c357ba749")>
+1636542095.9812472 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636552869.1677916 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="00bf437c-0328-4254-9202-5416b76cbae0", element="eeb52587-d484-4117-a583-f2b70a29d64b")>
+1636552899.626815 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636563633.0636096 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6c4993b1-b6cc-4016-a7d7-37ee8523160d", element="52a29b2b-6860-4e55-b9a4-f2e31dc963da")>
+1636563691.4645789 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636567233.002335 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bdb145d8-ecf0-41ae-b057-b7f261917d1c", element="07acdb25-5626-46ec-91dd-cfa9c00288c1")>
+1636567294.3883228 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636614008.4906592 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="05ae2eba-5728-4747-b3e4-33451a3b2cd7", element="15faae67-8a81-4691-b626-9dca7e240773")>
+1636617636.037234 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636628474.1408272 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b6d2505-1845-4012-b762-8bb17c13f980", element="1f5606a3-0d7b-46b1-bcab-c5ca637dcf06")>
+1636628505.929868 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636639255.4429176 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="32d90ba9-c386-41e5-abb6-ca26819fce6c", element="a3e595e2-f483-4c95-83f9-f1efc7a4d85e")>
+1636639294.4177995 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1636650074.4964678 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cb940a1b-6389-4ba9-9054-ab2b3481bcd0", element="547b4727-1202-4e82-9ab7-4da312de314f")>
+1636650109.9108942 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636653642.892248 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="102ef938-37d7-4dad-932f-f28a30364081", element="67fcc333-6502-43d9-9921-37971b4bb260")>
+1636653693.2782688 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636700427.410938 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="60911a1a-c6dc-4373-ad81-48163d6499f6", element="9b7a09d5-71d7-4739-a87b-7dc7f392c536")>
+1636704060.3186288 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636714901.4002266 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3968b6e8-e995-4eb3-9ffc-4e5ba80e6f17", element="65a12cc6-90f4-4e7c-aae2-f9dca67db1ce")>
+1636714932.0120587 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d0f70f14-f61e-4bea-8b28-8d6b13a7cf1a", element="c5705003-5e5a-49a1-a356-026bf188b4ca")>
+1636725700.2891033 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636736469.267627 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4f7ea93b-1e58-4f76-be8d-1fbe4a0e1431", element="d8a76edc-43b6-46c5-8476-bcf3a258d9a9")>
+1636736509.6160343 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636740050.3342776 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="66f2ff90-776b-4633-88f0-9e183fe67685", element="3e077271-e00a-4dba-b5b7-48fa7af62159")>
+1636740095.001118 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b2dc65b3-8ad7-45a4-af12-9faa856e39a4", element="987d80a0-947e-419d-9b51-dcc40c5c55b5")>
+1636963271.3559654 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636974081.562635 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bc4be3d3-803e-43b8-926b-7516c3d6edb1", element="c3370a65-dd9f-42a2-be66-8b8029ce12c1")>
+1636974119.5369165 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636984878.1858368 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bb1b41f0-449c-41c7-8579-8288b94d0046", element="27f4e94c-e26a-459c-8fdb-043ead103211")>
+1636984921.9028068 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636995668.1641953 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5cd66cc9-381d-427a-a4d3-0fbdc903533f", element="46e0d676-166d-47ad-9597-af827513fd63")>
+1636995724.8388684 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1636999253.974011 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="070cf857-a74b-42c1-b064-0e13da5a0b97", element="b936360a-42c0-4599-a0f2-062e9515c0b2")>
+1636999290.072942 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637046039.0252485 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="600a36b8-9a8c-48b4-ae41-0fd391849bf4", element="e2d8be66-bffd-4d95-aa8e-732560592649")>
+1637049672.3550665 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637060527.7839687 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d245da6b-3878-4844-b96a-a802ab9d36ce", element="56d8deae-f9be-4935-8a0a-98a08c4ebb13")>
+1637060558.7642884 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637071282.5925841 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="527c4394-84d7-4f04-ab19-5871b9e9efdf", element="7d531428-8b44-495d-9ce9-76853fee05cd")>
+1637071320.1336796 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637082115.0959685 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e843ba54-b7ee-4c36-9efb-16f39cae5c84", element="2c29fa4b-83a0-4c83-af31-8e6153d93ffb")>
+1637082144.318419 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637085658.6304514 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ac74959a-1ff3-4c66-a296-2367ad223c17", element="eaa28136-50e7-45a9-816a-8f989c1d6150")>
+1637085695.4068284 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637132407.32014 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1a603642-8204-4c57-80b0-7a547014bb76", element="d93ea914-efa9-41c9-b2cb-f5b9ff761c32")>
+1637136055.4807327 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637146861.0731654 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="557f54fc-51b0-4c9c-89f7-808a7e8d06dd", element="e8648aef-71bf-4923-8679-51acd4636fbe")>
+1637146895.2640915 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+Traceback (most recent call last):
+  File "/home/lstuurman/Projects/Parkmobile/stopParking.py", line 13, in <module>
+    StopParking()
+  File "/home/lstuurman/Projects/Parkmobile/login.py", line 67, in StopParking
+    active_parking = browser.find_element_by_id('clr-dg-row1')
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/lstuurman/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="clr-dg-row1"]
+
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c77cd6fc-6e0f-40a3-bd26-108880817e4e", element="fdcddf22-7cad-4a89-836b-ed49f9711b78")>
+1637157945.1099374 : Parking Started
+python3: can't open file '/home/noscript.py': [Errno 2] No such file or directory
+python3: can't open file '/home/noscript.py': [Errno 2] No such file or directory
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e36f6921-148a-4d9a-bae6-851ee6074330", element="f56a95b0-9247-471a-8159-6abb62c6bad6")>
+1637222495.0674279 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="430ab03f-f64d-4a80-a879-31b69b7fc8eb", element="8d83f926-ab82-424e-99d2-928db1a5fcc8")>
+1637244091.7384782 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637254829.6440775 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cf6edb09-98ad-4034-a9b9-66c2e2c57c54", element="5b1869cc-7a10-4492-a91a-702ac4713879")>
+1637254890.5925543 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0606ebcb-dab4-48ea-bee3-56ad4d374049", element="179dc570-8bc4-4f3e-b03a-5c5ff001f600")>
+1637258491.38266 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637305168.1302242 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a8f8f7af-e6c2-4aac-9a70-2692a079c3b2", element="03c96655-3b66-416f-96e1-06798a444edd")>
+1637308830.5095806 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637319628.3031523 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="815cbce7-68db-4528-b329-7690a30cb141", element="26942c98-002e-4ee1-a394-5a78044c95e3")>
+1637319690.096428 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637330448.6280406 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2c305538-26fb-4a3b-a8eb-f1c9a1ec8ac0", element="97ec0777-50f0-43ad-b4b2-0f28607e1be7")>
+1637330492.1817095 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+1637341231.4979095 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="48a1b0f5-2730-4b19-a88d-173296c7df5f", element="6c2a5e1f-07b4-435f-b80e-27542097ce36")>
+1637341291.8960736 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637344827.320755 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56e15b43-f0ee-4b63-802d-31084a2a04b2", element="4df58ff3-50ba-4bd7-9931-104059c3fb88")>
+1637344890.2032778 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="bc6127cc-aa65-4f21-8cfa-766f8805c38b", element="14a4796d-153b-4361-9e44-ef4692666ebb")>
+1637527170.8487275 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637527347.5530138 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="de19d81f-4131-41d0-96d5-e1b1b8d3ffe9", element="cf80ea4f-0dea-4416-bf59-90e69ec63c2f")>
+1637568029.789336 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637578827.444976 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="45165a53-75ba-40a0-89bf-240ce62821ef", element="f55c910b-30a7-4f39-bc3a-c6a49e06b4a2")>
+1637578890.7708948 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637589627.4209635 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9532e3b9-1a78-4738-aa00-daa5631a97f0", element="24b67409-d917-4c50-96ab-f921037510ca")>
+1637589689.3434045 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637600426.7701602 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a4b12c09-0aef-41f4-b8eb-8592293fe3a6", element="85f7312f-0b4a-46be-960d-585a0929703d")>
+1637600490.0285532 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f358de5f-df37-4fa6-ac69-898ad10e8fe7", element="909f4b23-9f07-4111-8161-52f085398134")>
+1637604090.945251 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+1637650766.314742 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b8eb3bd8-8940-46c0-a25e-385e1fd9cd38", element="ee676e13-2f33-41cb-ba6a-da151f0a8656")>
+1637654432.436684 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a5840832-3331-4bbc-a760-288c0c9ff57e", element="3f50fa57-be1b-4eb9-a369-ca546f1b2f0f")>
+11-23-2021, 12:01:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+11-23-2021, 15:00:33 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c979451d-0704-412f-87f7-4626ca0a3c32", element="62760067-c1d0-4f6d-8a18-9afae4a0ac6f")>
+11-23-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-23-2021, 18:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e71a343-b9ed-41bf-ac59-08ecca49c529", element="70126bae-fdd8-4ac4-932b-dceb272515e4")>
+11-23-2021, 18:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-23-2021, 19:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="28d1a11e-263a-4726-9b3e-1bb34423693a", element="bdd6713d-f66a-4293-8456-083c16d0bf4b")>
+11-23-2021, 19:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-24-2021, 07:59:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="32c6993c-2cf5-4cbe-a668-aefb480f065a", element="3a7d4b6e-d179-483b-9387-5aebc738d4e6")>
+11-24-2021, 09:00:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-24-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="17bef34d-d2d6-45bf-bdf7-c18f32f13aab", element="067153a6-5539-4a0f-937b-1fc52a1fe441")>
+11-24-2021, 12:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-24-2021, 15:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6f79e8bd-9b1a-494d-81dd-0b77a56c4b84", element="9950bff6-ed6b-490a-8cec-532c6c550be3")>
+11-24-2021, 15:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-24-2021, 18:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9c003c57-3883-4a6e-af84-2c65a7922184", element="a12d27e0-0c54-4dbf-aa90-e2115529125a")>
+11-24-2021, 18:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="343df224-9b31-437e-baf4-ef3d6b3e8363", element="f24c82d5-5f42-4175-98aa-86813eebf420")>
+11-24-2021, 19:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-25-2021, 07:59:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-25-2021, 12:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="403ff4b7-d3ab-4b2c-9a68-d7c69139f4be", element="1effa543-802f-4dc9-9323-7011f75c8b9c")>
+11-25-2021, 12:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+11-25-2021, 15:00:31 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="34960c48-ee4d-4ca5-9d50-e39f60b5777e", element="5a9572f5-562e-4cb1-a244-473758905623")>
+11-25-2021, 15:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-25-2021, 18:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a66c02aa-077c-44d9-ba18-00b5a255f8d4", element="3517977c-1dba-4816-82d9-5aab8ddad5c1")>
+11-25-2021, 18:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-25-2021, 19:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="760b270b-e45d-4dd1-8230-cdd59fdf57fd", element="db4b0814-7949-4788-8fc5-5357cb41d064")>
+11-25-2021, 19:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-26-2021, 07:59:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="51aef632-97f6-4f32-8e2a-42d7059604fd", element="70de67b5-97e1-4af0-b95d-77522fe39f57")>
+11-26-2021, 09:00:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-26-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e38d2187-b267-45f7-a061-a0cff62b7aaa", element="a1d289bf-7cc2-46ce-8cd0-f883d8ac1e6c")>
+11-26-2021, 12:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-26-2021, 15:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="52f97b55-9311-4ff5-b80b-4c87dcf0c97f", element="d20a1810-2910-48c6-9051-2cb7663d7d23")>
+11-26-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-26-2021, 18:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d760eab6-a944-4413-949e-15654d6176f4", element="bb44b236-12b0-4221-ae2e-4a418936368c")>
+11-26-2021, 18:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-26-2021, 19:00:27 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e98da872-e6cb-49bf-84de-5f21550dcb5b", element="d0f50383-96f7-4619-8723-636ac0bd8352")>
+11-26-2021, 19:01:29 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e0749c03-22cb-4bc3-b346-0251e1eb7230", element="89bd62da-f255-4d4f-b766-8e0bb6664ae4")>
+11-29-2021, 09:00:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-29-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9665cb24-caa7-4653-9f33-355b59333666", element="505ee053-4871-45a7-8c59-85ef5b195571")>
+11-29-2021, 12:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-29-2021, 15:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c7c6f824-c72a-4eca-bb69-2773f5d57591", element="f55cbec5-8991-4306-af67-c01dd2b26ec9")>
+11-29-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-29-2021, 18:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0361101d-12c5-4027-ad11-332855432036", element="e4226c13-901d-4da4-9dcd-1b1b313dac6e")>
+11-29-2021, 18:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-29-2021, 19:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c972ce0f-071c-4b00-8718-cc21e15f2f8a", element="489c07c9-0366-470f-8d6f-89d44b70056b")>
+11-30-2021, 09:00:34 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-30-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3fe57ea0-281c-4901-9faa-05372590170b", element="fbaa85d1-bc63-4eef-b468-e722b26011dc")>
+11-30-2021, 12:01:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-30-2021, 15:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9044d354-9e32-4da5-b2bf-7288cc3c0f57", element="a694d3bc-42ec-4525-91ec-1e1f0bfb27a2")>
+11-30-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-30-2021, 18:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad7e5652-fb92-4068-a36b-c01cca25ad54", element="367863cc-b49d-4612-be1f-b8ed0b3eaa23")>
+11-30-2021, 18:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+11-30-2021, 19:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="87de87e4-407c-4b9d-a0e2-4281b590ed8c", element="15c679e1-fb34-4ded-8d37-ec78ad583d45")>
+11-30-2021, 19:01:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-01-2021, 07:59:58 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1256d625-465e-4eb3-915a-77dfc3146666", element="5423811b-22e5-4307-bb63-a00518772bf5")>
+12-01-2021, 09:00:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-01-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="62040ebd-a315-4ba9-bcdf-f57cd94aacb8", element="78c1a0aa-c533-4b66-8ca7-0c09774023cc")>
+12-01-2021, 12:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+12-01-2021, 15:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c10dd112-d852-4167-9300-3c1d3b71a28a", element="ac357b27-8be7-47dd-a4d5-065e7bf58ed5")>
+12-01-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-01-2021, 18:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5fb383ce-1ef5-4b69-83de-48c8faaec035", element="f5c61b8f-5dc0-45dd-bc74-9a65ed4655d2")>
+12-01-2021, 18:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-01-2021, 19:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="59c9e589-68ba-4646-875b-d721de3f901f", element="352a64ad-f8dc-4af0-98cc-4e2e1cf165b5")>
+12-01-2021, 19:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-02-2021, 07:59:32 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b477ca87-c550-46bf-aaf2-2d6836ef1eb6", element="b704a48a-5ba4-4233-89ec-a106513cdc29")>
+12-02-2021, 09:00:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-02-2021, 12:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a3f8514a-f4ea-4e8f-833c-4798bd6673c8", element="b4b45ebd-07e0-45d0-b216-f1a85f7ab83f")>
+12-02-2021, 12:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-02-2021, 15:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c5001fb3-4356-4b57-95d3-f0b8bb704ce2", element="1cf54d21-fa43-4555-9647-41789c2030a5")>
+12-02-2021, 15:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-02-2021, 18:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="190fd491-110b-403e-a483-73290679f4f5", element="352a036a-a6c7-4c56-b5f1-70fe1fa285dc")>
+12-02-2021, 18:01:34 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-02-2021, 19:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5553baea-a99a-4cea-894b-aba96e396f4e", element="5672e9e5-6e04-40b4-b5d1-a9093ce8f51a")>
+12-02-2021, 19:01:32 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-03-2021, 07:59:35 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8ae21091-e5b7-4b61-af61-a1c9a651e01d", element="5a218fc2-bf19-4929-aa41-c87d76c95d41")>
+12-03-2021, 09:00:35 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-03-2021, 12:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="86013b06-9683-430b-bd95-4097d6185330", element="b0347c56-6144-422b-b154-c6dca35a5ae7")>
+12-03-2021, 15:01:36 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-03-2021, 18:00:31 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e5ef4d3a-7c66-445b-9d10-8abecd633152", element="60bf2db9-f33c-410a-b492-4352c1a6592e")>
+12-03-2021, 18:01:34 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="478950fd-eb1d-45db-a9cf-d7c55cb35492", element="e32b62d0-bb39-4fbc-b9c5-dd7de9db7dcc")>
+12-03-2021, 19:01:38 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a715339-a1f4-4419-8e6c-575d315b00ba", element="bd684f26-7f7e-4193-863a-78450a678cc8")>
+12-06-2021, 09:01:00 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-06-2021, 12:00:37 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68efa72a-97bd-4615-8317-56acc0c6b1cc", element="a76a50ee-b6f4-4a6d-9689-1f7d3d4a888f")>
+12-06-2021, 12:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-06-2021, 15:00:32 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d137b804-e960-43f2-b678-1a585b434809", element="10117539-1812-4300-9808-37e7dd092b0e")>
+12-06-2021, 15:01:35 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-06-2021, 18:00:27 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="86e0f1a9-2898-4f86-84bd-bb98a4512fc5", element="6d4c0fbd-fcba-4584-acc6-4d86c94ba692")>
+12-06-2021, 18:01:30 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-06-2021, 19:00:30 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5a38897d-1218-40de-b737-ac34282bf8e4", element="e4b93273-4be1-450a-8ecb-4055ee5202a8")>
+12-06-2021, 19:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-07-2021, 07:59:40 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b60a705b-5243-4ace-82fc-78b64a899769", element="af209ecc-ddc7-4d5e-acd8-4b962161adcf")>
+12-07-2021, 09:00:35 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-07-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c1d76c77-87bf-4bdd-b4d5-79dd6d671eff", element="b98bb082-1288-47c6-8ae0-5cf02fa40de6")>
+12-07-2021, 12:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-07-2021, 15:00:28 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="024f9a47-716d-427a-83c4-1d13d439bbcf", element="95e42051-4206-4247-bec3-bdde92712296")>
+12-07-2021, 15:01:31 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-07-2021, 18:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cf0a90bf-bde9-4e80-ba56-ea63f20eb4bd", element="efa8e967-4e64-45d1-973b-5b55666d9cc9")>
+12-07-2021, 18:01:33 : Parking Started

@@ -7,11 +7,12 @@ import time
 
 def StartBrowser():
     opts = Options()
-    #opts.headless = True
+    opts.set_headless(headless=True)
+    #opts.set_headless(headless=True)
     #assert opts.headless  # Operating in headless mode
     browser = Firefox(options=opts)
     browser.get('https://account.parkmobile.com/login')
-    time.sleep(3)
+    time.sleep(10)
     cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
     cookie.click()
     return browser
@@ -31,6 +32,10 @@ def Login():
 
     print(browser.current_url)
     browser.get('https://account.parkmobile.com/parking/parking-sessions')
+
+    if browser.current_url != 'https://account.parkmobile.com/parking/parking-sessions':
+        Login()
+
     print(browser.current_url)
 
 
@@ -40,14 +45,24 @@ def StartParking():
     child=start_parking_form.find_element(By.XPATH,'.//*')
     children=child.find_element(By.XPATH,'.//*')
     children.send_keys('15812')
-    time.sleep(4)
+    time.sleep(2)
     children.send_keys(Keys.DOWN)
-    time.sleep(4)
-    #children.send_keys(Keys.DOWN)
-    #time.sleep(4)
-    children.send_keys(Keys.RETURN)
     time.sleep(2)
     children.send_keys(Keys.RETURN)
+    time.sleep(2)
+
+    # start_parking = browser.find_element_by_css_selector('button.btn.btn-success-outline.btn-block')
+    # start_parking = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block.ng-tns-c36-8')
+    start_parking = browser.find_element_by_css_selector('span.ng-tns-c36-11.ng-trigger.ng-trigger-defaultButton.ng-star-inserted')
+    # ng-tns-c36-11 ng-trigger ng-trigger-defaultButton ng-star-inserted
+    
+    start_parking.click()
+    #time.sleep(4)
+    browser.delete_all_cookies()
+    browser.close()
+    browser.quit()
+
+
 
 def StopParking():
     active_parking = browser.find_element_by_id('clr-dg-row1')
@@ -57,46 +72,45 @@ def StopParking():
     stop_parking = browser.find_element_by_css_selector('pn-stop-parking-session.ng-star-inserted')
     stop_parking.click()
     time.sleep(.5)
-    stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
-    stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c124-12')
+    #stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
+    #modal-footer centered ng-tns-c128-15
+    stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c128-15')
     stop_div.click()
-    #stop_parking.click()
-    # stop_div.send_keys(Keys.TAB)
-    # stop_div.send_keys(Keys.TAB)
-    # stop_div.send_keys(Keys.TAB)
-    # stop_div.send_keys(Keys.ENTER)
-    # time.sleep(2)
-    # stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger')
-    # stop_parking.click()
+    browser.delete_all_cookies()
+    browser.close()
+    browser.quit()
+
 
 
 global browser
-
-for our in [9,12,15,19]:
-	browser = StartBrowser()
-	Login()
-	time.sleep(5)
-	# time.sleep(5)
-	StartParking()
-	print('Parking Started')
-	time.sleep(10)
-	browser.close()
-	browser.quit()
+browser = StartBrowser()
+# Login()
+# time.sleep(5)
+# for our in [9,12,15,19]:
+# 	browser = StartBrowser()
+# 	Login()
+# 	time.sleep(5)
+# 	# time.sleep(5)
+# 	StartParking()
+# 	print('Parking Started')
+# 	time.sleep(10)
+# 	browser.close()
+# 	browser.quit()
 	
-	time.sleep(10392)#397)#500
-	browser=StartBrowser()
-	Login()
-	time.sleep(3)
-	StopParking()
-	print('Stopped Parking')
-	browser.close()
-	browser.quit()
-	time.sleep(297)#97)#00
-# time.sleep(10)
-#StopParking() 
-#print('Parking Stopped')
-browser.close()
-browser.quit()
+# 	time.sleep(10392)#397)#50010392
+# 	browser=StartBrowser()
+# 	Login()
+# 	time.sleep(3)
+# 	StopParking()
+# 	print('Stopped Parking')
+# 	browser.close()
+# 	browser.quit()
+# 	time.sleep(297)#97)#00
+# # time.sleep(10)
+# #StopParking() 
+# #print('Parking Stopped')
+# browser.close()
+# browser.quit()
 
 
   
