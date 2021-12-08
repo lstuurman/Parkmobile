@@ -13,8 +13,11 @@ def StartBrowser():
     browser = Firefox(options=opts)
     browser.get('https://account.parkmobile.com/login')
     time.sleep(2)
-    cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
-    cookie.click()
+    try:
+        cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
+        cookie.click()
+    except:
+        print('NO COOKIES ?')
     return browser
 
 
