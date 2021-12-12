@@ -13,8 +13,10 @@ def StartBrowser():
     browser = Firefox(options=opts)
     browser.get('https://account.parkmobile.com/login')
     time.sleep(2)
+    #cookie = browser.find_elements_by_xpath("//*[contains(text(), 'Cookies accepteren')]")[0]
     try:
-        cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
+        #cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
+        cookie = browser.find_elements_by_xpath("//*[contains(text(), 'Cookies accepteren')]")[0]
         cookie.click()
     except:
         print('NO COOKIES ?')
@@ -31,6 +33,7 @@ def Login():
     password.send_keys('Boeddha1994')
 
     submitEl = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block')#.btn.btn-primary.btn-block
+    submitEl = browser.find_elements_by_xpath("//*[contains(text(), 'Log in')]")[0]
     submitEl.click()
 
     print(browser.current_url)
@@ -56,7 +59,8 @@ def StartParking():
 
     # start_parking = browser.find_element_by_css_selector('button.btn.btn-success-outline.btn-block')
     # start_parking = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block.ng-tns-c36-8')
-    start_parking = browser.find_element_by_css_selector('span.ng-tns-c36-11.ng-trigger.ng-trigger-defaultButton.ng-star-inserted')
+    #start_parking = browser.find_element_by_css_selector('span.ng-tns-c36-11.ng-trigger.ng-trigger-defaultButton.ng-star-inserted')
+    start_parking = browser.find_elements_by_xpath("//*[contains(text(), 'Start this parking')]")[0]
     # ng-tns-c36-11 ng-trigger ng-trigger-defaultButton ng-star-inserted
     
     start_parking.click()
@@ -72,12 +76,14 @@ def StopParking():
     active_parking.click()
     time.sleep(2)
     #stop_parking = browser.find_element_by_css_selector('button.btn.btn-danger.btn-block')
-    stop_parking = browser.find_element_by_css_selector('pn-stop-parking-session.ng-star-inserted')
+    #stop_parking = browser.find_element_by_css_selector('pn-stop-parking-session.ng-star-inserted')
+    stop_parking = browser.find_elements_by_xpath("//*[contains(text(), 'Stop this session')]")[0]
     stop_parking.click()
     time.sleep(.5)
     #stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
     #modal-footer centered ng-tns-c128-15
-    stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c128-15')
+    #stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c128-15')
+    stop_div = browser.find_elements_by_xpath("//*[contains(text(), 'Stop this session')]")[-1]
     stop_div.click()
     browser.delete_all_cookies()
     browser.close()

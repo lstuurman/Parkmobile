@@ -2355,3 +2355,112 @@ https://account.parkmobile.com/login
 https://account.parkmobile.com/parking/parking-sessions
 <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="cf0a90bf-bde9-4e80-ba56-ea63f20eb4bd", element="efa8e967-4e64-45d1-973b-5b55666d9cc9")>
 12-07-2021, 18:01:33 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-08-2021, 12:00:27 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f0aca7be-6fce-497e-b148-bc9d9c8dcf16", element="16b27cdb-b4c1-4341-83af-583fa84578da")>
+12-08-2021, 12:01:30 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+12-08-2021, 15:00:26 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f0401a55-78c2-4c8b-919b-d3ae304e4243", element="4aa15476-144e-4629-afe5-1894b4ad7d18")>
+12-08-2021, 15:01:28 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-08-2021, 18:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="29d4fbfd-9c05-4e6b-9d57-c8a1b7606688", element="30aefb90-b730-45ef-9f06-8c2e562ba3f5")>
+12-08-2021, 18:01:29 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-08-2021, 19:00:26 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1483fa2f-4dfb-448d-b5d0-9a3d4b8bb23f", element="7aae9057-b33d-4052-aecb-0825c9b2f783")>
+12-08-2021, 19:01:29 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-09-2021, 07:59:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f6b54957-8bc4-444b-a4b9-0402608bb481", element="10ff498a-a814-475f-b983-90b201e52c9e")>
+12-09-2021, 09:00:28 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-09-2021, 12:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8e5ebf30-0f70-4714-9e71-71b48febc50b", element="6d92ac46-a7fc-42e5-b37e-5ce863329f26")>
+12-09-2021, 12:01:26 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-09-2021, 15:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="7a46191d-0cbe-480c-86ac-8b3612dcb865", element="9ba3d628-b940-46f4-9553-92181a90ecee")>
+12-09-2021, 15:01:29 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-09-2021, 18:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="d1ace4ac-1c75-43fd-8844-2b60d448a494", element="d7c9b107-13fe-46e3-bcc1-60e9f0835308")>
+12-09-2021, 18:01:28 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-09-2021, 19:00:26 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e6a2d976-e617-42a2-8114-df2e920bac77", element="ee8a4481-db4d-4b3c-b620-54b95c062213")>
+12-09-2021, 19:01:27 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-10-2021, 07:59:26 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="aa4d4259-5035-4572-b071-c89d73bfbd6c", element="66177566-6ee9-4e8e-a019-ca6afba8b623")>
+12-10-2021, 09:00:27 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+12-10-2021, 12:00:29 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="76df9807-ab27-45f1-aaf5-a122abd78429", element="4ff2afbf-c12e-4f25-a95f-ebd1bc2d7660")>
+12-10-2021, 12:01:28 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/parking/parking-sessions
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="600da5b4-e774-45f3-9287-cf181486c7f9", element="83b0ba75-a24a-42f1-9db9-db7def545526")>
+12-10-2021, 15:01:29 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-10-2021, 18:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0d544c7b-1f9e-49f9-8b28-1b640b226b1b", element="5a8f0ebd-50b2-4898-8636-9cd4bcd6118b")>
+12-10-2021, 18:01:28 : Parking Started
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+12-10-2021, 19:00:25 : Stopped Parking
+https://account.parkmobile.com/login
+https://account.parkmobile.com/parking/parking-sessions
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="44dcaffa-eac0-435e-a3a3-168fb037acbe", element="0bb15de2-f997-47b1-8874-8737ebcceb84")>
+12-10-2021, 19:01:28 : Parking Started

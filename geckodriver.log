@@ -4855,3 +4855,158 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638960644452	geckodriver	INFO	Listening on 127.0.0.1:51635
+1638960644458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileL3jsx2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1638960646492	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL3jsx2/search.json.mozlz4", (void 0)))
+1638960649567	Marionette	INFO	Listening on port 43349
+1638960649915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638960673901	Marionette	INFO	Stopped listening on port 43349
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390149,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1639307298962	geckodriver	INFO	Listening on 127.0.0.1:44161
+1639307298969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilesr2KZJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307300957	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesr2KZJ/search.json.mozlz4", (void 0)))
+1639307303983	Marionette	INFO	Listening on port 35715
+1639307304224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307324637	Marionette	INFO	Stopped listening on port 35715
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639307343024	geckodriver	INFO	Listening on 127.0.0.1:48611
+1639307343030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileTCW8zD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307345166	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTCW8zD/search.json.mozlz4", (void 0)))
+1639307348282	Marionette	INFO	Listening on port 38043
+1639307348553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307366393	Marionette	INFO	Stopped listening on port 38043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639307518745	geckodriver	INFO	Listening on 127.0.0.1:46973
+1639307518751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilePKa5le"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307520605	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePKa5le/search.json.mozlz4", (void 0)))
+1639307523594	Marionette	INFO	Listening on port 38555
+1639307523966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307590163	geckodriver	INFO	Listening on 127.0.0.1:55443
+1639307590170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilevj3vwW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307592234	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevj3vwW/search.json.mozlz4", (void 0)))
+1639307595306	Marionette	INFO	Listening on port 45165
+1639307595503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307615683	Marionette	INFO	Stopped listening on port 45165
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639307754235	geckodriver	INFO	Listening on 127.0.0.1:41223
+1639307754241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileN9hW8T"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307756217	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN9hW8T/search.json.mozlz4", (void 0)))
+1639307759005	Marionette	INFO	Listening on port 39693
+1639307759655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307776879	Marionette	INFO	Stopped listening on port 39693
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639307938117	geckodriver	INFO	Listening on 127.0.0.1:53943
+1639307938123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileyI9Kt5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639307940030	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyI9Kt5/search.json.mozlz4", (void 0)))
+1639307943061	Marionette	INFO	Listening on port 40979
+1639307943276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639307963424	Marionette	INFO	Stopped listening on port 40979
+1639308133756	geckodriver	INFO	Listening on 127.0.0.1:52765
+1639308133763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileY6Dd8o"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1639308135693	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY6Dd8o/search.json.mozlz4", (void 0)))
+1639308138769	Marionette	INFO	Listening on port 40037
+1639308138973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639308156130	Marionette	INFO	Stopped listening on port 40037
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
