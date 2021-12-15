@@ -12,7 +12,7 @@ def StartBrowser():
     #assert opts.headless  # Operating in headless mode
     browser = Firefox(options=opts)
     browser.get('https://account.parkmobile.com/login')
-    time.sleep(2)
+    time.sleep(5)
     #cookie = browser.find_elements_by_xpath("//*[contains(text(), 'Cookies accepteren')]")[0]
     try:
         #cookie = browser.find_element_by_css_selector('button.optanon-allow-all.accept-cookies-button')
@@ -79,7 +79,7 @@ def StopParking():
     #stop_parking = browser.find_element_by_css_selector('pn-stop-parking-session.ng-star-inserted')
     stop_parking = browser.find_elements_by_xpath("//*[contains(text(), 'Stop this session')]")[0]
     stop_parking.click()
-    time.sleep(.5)
+    time.sleep(1)
     #stop_div = browser.find_element_by_css_selector('div.modal-content-wrapper.ng-tns-c124-12')
     #modal-footer centered ng-tns-c128-15
     #stop_div = browser.find_element_by_css_selector('div.modal-footer.centered.ng-tns-c128-15')
