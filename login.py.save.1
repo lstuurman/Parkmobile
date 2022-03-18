@@ -36,9 +36,10 @@ def Login():
     password.send_keys('Boeddha1994')
 
     waiter = WebDriverWait(browser,20,ignored_exceptions=[TimeoutException]) #,ignored_exceptions=[NoSuchElementException]
-    time.sleep(5)
+    #
     submitEl = waiter.until(EC.element_to_be_clickable((By.XPATH,"//*[contains(text(), 'Log in')]")))
     #submitEL = waiter.until(EC.invisibility_of_element_located((By.XPATH,"//*[contains(text(),'Log in')]")))
+    obscureSpinner = waiter.until(
     submitEl.click()
 
     # submitEl = browser.find_element_by_css_selector('button.btn.btn-primary.btn-block')#.btn.btn-primary.btn-block

@@ -5012,3 +5012,248 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1644660517848	geckodriver	INFO	Listening on 127.0.0.1:36439
+1644660519076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6fSs3y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644660546045	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6fSs3y/search.json.mozlz4", (void 0)))
+1644660564172	Marionette	INFO	Listening on port 46209
+1644660564634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644660975681	geckodriver	INFO	Listening on 127.0.0.1:34559
+1644660975687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile63foU4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644660977525	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile63foU4/search.json.mozlz4", (void 0)))
+1644660980395	Marionette	INFO	Listening on port 33023
+1644660980725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644661105052	geckodriver	INFO	Listening on 127.0.0.1:47407
+1644661105062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileA2sczs"
+Error: no DISPLAY environment variable specified
+1644661400460	geckodriver	INFO	Listening on 127.0.0.1:57637
+1644661400600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerQrIQU"
+Error: no DISPLAY environment variable specified
+1644700414738	geckodriver	INFO	Listening on 127.0.0.1:55425
+1644700414745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileW608pN"
+1644700423728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW608pN/search.json.mozlz4", (void 0)))
+1644700446268	Marionette	INFO	Listening on port 33901
+1644700446527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644700914907	geckodriver	INFO	Listening on 127.0.0.1:41001
+1644700914913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCs8pbd"
+Error: no DISPLAY environment variable specified
+1644700929372	Marionette	INFO	Stopped listening on port 33901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644700931741	geckodriver	INFO	Listening on 127.0.0.1:47403
+1644700931747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFmuMuG"
+1644700934166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFmuMuG/search.json.mozlz4", (void 0)))
+1644700937845	Marionette	INFO	Listening on port 42401
+1644700937892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644701036616	Marionette	INFO	Stopped listening on port 42401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644701039150	geckodriver	INFO	Listening on 127.0.0.1:55303
+1644701039162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHLyx8f"
+1644701041797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHLyx8f/search.json.mozlz4", (void 0)))
+1644701045201	Marionette	INFO	Listening on port 37165
+1644701045298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644701093134	Marionette	INFO	Stopped listening on port 37165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644701095795	geckodriver	INFO	Listening on 127.0.0.1:50963
+1644701095807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3wbctW"
+1644701098376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3wbctW/search.json.mozlz4", (void 0)))
+1644701101856	Marionette	INFO	Listening on port 46879
+1644701102323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644701194359	Marionette	INFO	Stopped listening on port 46879
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644701197097	geckodriver	INFO	Listening on 127.0.0.1:43947
+1644701197109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHsqoTe"
+1644701199749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHsqoTe/search.json.mozlz4", (void 0)))
+1644701202850	Marionette	INFO	Listening on port 43625
+1644701202955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644701227952	Marionette	INFO	Stopped listening on port 43625
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644701265481	geckodriver	INFO	Listening on 127.0.0.1:40239
+1644701265487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEP2r0x"
+1644701267798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEP2r0x/search.json.mozlz4", (void 0)))
+1644701270911	Marionette	INFO	Listening on port 45869
+1644701271025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644701291499	Marionette	INFO	Stopped listening on port 45869
+1644701534592	geckodriver	INFO	Listening on 127.0.0.1:36807
+1644701534741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaDj0yh"
+Error: no DISPLAY environment variable specified
+1644701567576	geckodriver	INFO	Listening on 127.0.0.1:41311
+1644701567582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerMtBzc"
+1644701592145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerMtBzc/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1644701616428	Marionette	INFO	Listening on port 36933
+1644701616732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644701645514	Marionette	INFO	Stopped listening on port 36933
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1644701655689	geckodriver	INFO	Listening on 127.0.0.1:32971
+1644701655695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3JgEoV"
+1644701658060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3JgEoV/search.json.mozlz4", (void 0)))
+1644701661133	Marionette	INFO	Listening on port 36241
+1644701661437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644701682473	Marionette	INFO	Stopped listening on port 36241
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644701693936	geckodriver	INFO	Listening on 127.0.0.1:59825
+1644701693942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileChDLKv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644701696212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileChDLKv/search.json.mozlz4", (void 0)))
+1644701699324	Marionette	INFO	Listening on port 40567
+1644701699590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644701723390	Marionette	INFO	Stopped listening on port 40567
+1644701757666	geckodriver	INFO	Listening on 127.0.0.1:42187
+1644701757672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilepEdgLI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644701759897	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepEdgLI/search.json.mozlz4", (void 0)))
+1644701763003	Marionette	INFO	Listening on port 36319
+1644701763324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644701784121	Marionette	INFO	Stopped listening on port 36319
+1644781950027	geckodriver	INFO	Listening on 127.0.0.1:32891
+1644781950034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileF1IUui"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644781952112	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF1IUui/search.json.mozlz4", (void 0)))
+1644781955022	Marionette	INFO	Listening on port 41081
+1644781955075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644781980789	Marionette	INFO	Stopped listening on port 41081
+1644781996018	geckodriver	INFO	Listening on 127.0.0.1:40179
+1644781996024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileBdvbBm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644781998004	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBdvbBm/search.json.mozlz4", (void 0)))
+1644782000908	Marionette	INFO	Listening on port 46333
+1644782001153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644782022425	Marionette	INFO	Stopped listening on port 46333
+1644853284177	geckodriver	INFO	Listening on 127.0.0.1:54549
+1644853284183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileOa3pm6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644853286368	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOa3pm6/search.json.mozlz4", (void 0)))
+1644853289354	Marionette	INFO	Listening on port 40265
+1644853289695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644853312365	Marionette	INFO	Stopped listening on port 40265
+1644853330865	geckodriver	INFO	Listening on 127.0.0.1:55821
+1644853330870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQh5Osc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644853332987	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQh5Osc/search.json.mozlz4", (void 0)))
+1644853336038	Marionette	INFO	Listening on port 44883
+1644853336108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://account.parkmobile.com"
+1644853361244	Marionette	INFO	Stopped listening on port 44883
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644946907411	geckodriver	INFO	Listening on 127.0.0.1:51097
+1644946907418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilerTfyyg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644946909747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerTfyyg/search.json.mozlz4", (void 0)))
+1644946913133	Marionette	INFO	Listening on port 34103
+1644946913262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644947138273	geckodriver	INFO	Listening on 127.0.0.1:41565
+1644947138280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6aX4H3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x10de/0x1140
+1644947140377	Marionette	INFO	Marionette enabled
